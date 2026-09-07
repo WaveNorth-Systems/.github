@@ -1,0 +1,6 @@
+# The Engineering team reviews changes to the organization-wide GitHub standards.
+* @WaveNorth-Systems/engineering
+
+# Product and Operations review changes to their shared guidance.
+/profile/ @WaveNorth-Systems/product @WaveNorth-Systems/operations
+/docs/ @WaveNorth-Systems/engineering @WaveNorth-Systems/product @WaveNorth-Systems/operations
